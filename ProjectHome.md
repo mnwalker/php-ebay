@@ -1,0 +1,1 @@
+This is a wrapper library written in PHP for the new eBay API.
